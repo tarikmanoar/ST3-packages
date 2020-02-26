@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"A File Icon",
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"Bootstrap 4 Autocomplete",
+		"Bootstrap 4 Snippets",
+		"Bootstrap 4x Autocomplete",
+		"Bootstrap 4x Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS3",
+		"Emmet",
+		"Emmet Css Snippets",
+		"HTML Snippets",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"jQuery",
+		"Sass",
+		"SCSS Compiler",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter"
+	]
+}
